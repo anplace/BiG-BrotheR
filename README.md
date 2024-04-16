@@ -51,7 +51,7 @@ These technologies work together to create an interactive, command-line-based em
 -At the prompt run: node index.js
 -You should see the menu on the image shown below of the README.md
 
-## GitHub project URL: https://github.com/maslla100/Employee-Tracker
+## GitHub project URL: [https://github.com/maslla100/Employee-Tracker](https://github.com/anplace/BiG-BrotheR)
 
 
 
