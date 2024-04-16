@@ -1,19 +1,10 @@
-
-## Project Name
-Employee-Tracker
-
-## Version
-1.0.0 Deployment Date: 2023-01-28 Contributors: Luis Llamas
+## BiG-BrotheR
 
 ## Description
-The Note Taker is a Node.js command-line application that allows users to utilize the Note Taker application and be presented with a landing page with a link to a notes page.  When the user clicks on the link to the notes page, the user is shown a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column.  When the user enters a new note title and the note’s text, the "Save Note" button and a "Clear Form" button appear in the navigation at the top of the page.  When the user clicks on the Save button, the new note the user has entered is saved and appears in the left-hand column with the other existing notes, and the buttons in the navigation disappear.   When the user clicks on an existing note in the list in the left-hand column
-THEN, that note appears in the right-hand column, and a "New Note" button appears in the navigation.  
-When the user clicks on the "New Note" button in the navigation at the top of the page, the user is presented with empty fields to enter a new note title and the note’s text in the right-hand column, and the button disappears.
-
+This is a CLI application to add employees, roles, and departments within a database. This allows the user the ability to update employees, their roles within the company, salaries, to move employees, create departments, etc. 
 
 
 ## Technologies & Prerequisites
-The Employee Tracker application you're working on utilizes several key technologies and tools, each contributing to different aspects of the application's functionality. Here are the primary technologies used:
 
 1. **Node.js**: A JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js allows you to run JavaScript on the server side. It's the foundation of your application, enabling the use of JavaScript outside the browser.
 
@@ -59,13 +50,6 @@ These technologies work together to create an interactive, command-line-based em
 ## Testing
 -At the prompt run: node index.js
 -You should see the menu on the image shown below of the README.md
-
-The following image shows the application's appearance:
-
-![The Employee-Tracker-DB".](sample.jpeg)
-
-## Video Demonstration
-[Link to Walkthrough Video](#) - https://www.loom.com/share/3a02d4f9c6d24f819f3cf35af434248c?src=composer.
 
 ## GitHub project URL: https://github.com/maslla100/Employee-Tracker
 
