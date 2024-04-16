@@ -53,6 +53,7 @@ These technologies work together to create an interactive, command-line-based em
 
 ## GitHub project URL: [https://github.com/anplace/BiG-BrotheR]
 
-
+## Credits
+    - Luis Llamas for the README.md format which I then tweaked to fit my needs.
 
 
