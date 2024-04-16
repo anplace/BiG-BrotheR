@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.4.1",
+    "figlet": "^1.7.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.9.4"
+  }
+}
