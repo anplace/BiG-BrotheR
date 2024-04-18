@@ -55,5 +55,3 @@ These technologies work together to create an interactive, command-line-based em
 
 ## Credits
     - Luis Llamas for the README.md format which I then tweaked to fit my needs.
-
-
